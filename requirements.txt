@@ -1,0 +1,6 @@
+flask
+flask-cors
+tenserflow
+pillow
+numpy
+YOLO
